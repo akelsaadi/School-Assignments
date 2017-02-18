@@ -1,0 +1,10 @@
+n Vicky 911 7
+r Linda 713 Talking Y
+d Nicos 891 Bone
+h Vito 123
+s Vincent 345 Brain N
+s Albert 576 Heart Y
+r Tom 678 Talking Y
+n Picky 999 5
+a Luca 567 Business
+j Anthony 789 Maintenance N
